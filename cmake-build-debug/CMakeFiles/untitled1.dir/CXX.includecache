@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/main.cpp
+iostream
+-
+string
+-
+string.h
+-
+stack
+-
+cstring
+-
+math.h
+-
+vector
+-
+algorithm
+-
+myStack.h
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myStack.h
+myBST.h
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myBST.h
+myHeap.h
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myHeap.h
+myEval.h
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myEval.h
+regex
+-
+exception
+-
+fstream
+-
+conio.h
+-
+
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myBST.h
+vector
+-
+
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myEval.h
+iostream
+-
+string
+-
+string.h
+-
+cstring
+-
+math.h
+-
+vector
+-
+algorithm
+-
+myBST.h
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myBST.h
+
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myHeap.h
+vector
+-
+string
+-
+myBST.h
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myBST.h
+
+C:/Users/Mohye/Desktop/College Projects/Data/Final Project/myStack.h
+stack
+-
+string
+-
+
