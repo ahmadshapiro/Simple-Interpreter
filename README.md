@@ -1,31 +1,7 @@
-﻿![](Manual.001.png)
 
 **Simple Interpreter![](Manual.002.png)**
 
 06.2020
-
-**\_\_\_\_\_\_**
-
-Name\_ID’s
-
-Ahmed Mohye El-Din Ibrahim Shapiro\_5846
-
-Noha Sayed Mohammed Ali Mohammed El-Haddad\_5891 Samar Ashraf Mohamed Elgamal\_5505
-
-Yassin Mohsen Ahmed Nawar\_5517
-
-Ahmed Yasser\_5661
-`  `PAGE7![](Manual.001.png)
-
-**System Description-------------------------------------------------------------------Page 2**
-
-**User Manual----------------------------------------------------------------------------- Page 3**
-
-**Functionality:**
-
-**Stacks------------------------------------------------------------------------------- --------Page 4**
-
-**Binary Search Trees-------------------------------------------------------------------Page 5** **Heaps------------------------------------------------------------------------------- --------Page 6**
 
 **System Description:**
 
