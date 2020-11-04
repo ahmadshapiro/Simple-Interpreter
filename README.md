@@ -1,5 +1,4 @@
-
-**Simple Interpreter![](Manual.002.png)**
+# Simple Interpreter
 
 06.2020
 
